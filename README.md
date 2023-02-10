@@ -1,16 +1,3 @@
 # corona_app_pr
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://user-images.githubusercontent.com/121867877/218079339-08bbde0b-e254-491d-a0fb-556f7088fea9.jpg)
+![2](https://user-images.githubusercontent.com/121867877/218079344-e746dca8-3948-4b4c-a563-a593d71f6a67.jpg)
